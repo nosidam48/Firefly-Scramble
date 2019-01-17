@@ -69,12 +69,12 @@ class App extends React.Component {
 
     if (gameArray[propsIndex].clicked === false) {
       gameArray[propsIndex].clicked = true;
-      this.scoreUp(this.state.score);
       this.topScore();
+      this.scoreUp(this.state.score);
       this.setState({
         cards: gameArray,
         message: "You guessed correctly! Click again"
-      })
+      });
     }
     else if (gameArray[propsIndex].clicked === true) {
       console.log("you clicked me bro")
