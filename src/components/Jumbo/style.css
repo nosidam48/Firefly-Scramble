@@ -1,0 +1,18 @@
+.jumbotron {
+  background-image: url("./space.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  color: orange;
+  height: 180px;
+  text-shadow: 1px 1.5px white;
+  font-family: 'Merienda', cursive;
+  padding-top: 20px
+}
+
+#headline {
+  font-size: 50px
+}
+
+#text-body {
+  font-size: 30px;
+}

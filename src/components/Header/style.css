@@ -1,0 +1,15 @@
+#center-nav {
+  font-size: 35px;
+  color: white;
+}
+
+#score-nav {
+  font-size: 25px;
+  color: white;
+}
+
+.navbar {
+  font-family: 'Kaushan Script', cursive;
+  background-color: black;
+  color: white;
+}

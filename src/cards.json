@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Mal",
+    "image": "/assets/images/Mal.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Zoe",
+    "image": "/assets/images/Zoe.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Badger",
+    "image": "/assets/images/Badger.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Inara",
+    "image": "/assets/images/Inara.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Jayne",
+    "image": "/assets/images/Jayne.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Kaylee",
+    "image": "/assets/images/Kaylee.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Niska",
+    "image": "/assets/images/Niska.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "River",
+    "image": "/assets/images/River.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Saffron",
+    "image": "/assets/images/Saffron.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Shepherd",
+    "image": "/assets/images/Shepherd.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Simon",
+    "image": "/assets/images/Simon.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Wash",
+    "image": "/assets/images/Wash.jpeg",
+    "clicked": false
+  }
+  
+]
