@@ -1,7 +1,9 @@
 .jumbotron {
+  opacity: 0.8;
   background-image: url("./space.jpg");
   background-repeat: no-repeat;
   background-position: center;
+  background-color: (0, 0, 0, 0.5);
   color: orange;
   height: 180px;
   text-shadow: 1px 1.5px white;

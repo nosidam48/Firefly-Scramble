@@ -46,14 +46,14 @@ class App extends React.Component {
   }
 
   topScore = () => {
-    if(this.state.topScore < 12) {
+    if(this.state.score < 12) {
       if (this.state.score >= this.state.topScore) {
         this.setState({
           topScore: this.state.score + 1
         })
       }
     }
-    else {
+    else if (this.state.score >= 12) {
       this.reset()
     }
     }
@@ -69,8 +69,8 @@ class App extends React.Component {
 
     if (gameArray[propsIndex].clicked === false) {
       gameArray[propsIndex].clicked = true;
-      this.topScore();
       this.scoreUp(this.state.score);
+      this.topScore();
       this.setState({
         cards: gameArray,
         message: "You guessed correctly! Click again"

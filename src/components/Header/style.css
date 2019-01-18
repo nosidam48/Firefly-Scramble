@@ -5,11 +5,13 @@
 
 #score-nav {
   font-size: 25px;
-  color: white;
+  color: orange;
+  text-shadow: 1px 1px white;;
 }
 
 .navbar {
   font-family: 'Kaushan Script', cursive;
-  background-color: black;
+  background-color: rgba(5, 5, 5, 0.582) !important;
   color: white;
+  
 }
