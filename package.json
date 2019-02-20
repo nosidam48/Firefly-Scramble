@@ -2,7 +2,7 @@
   "name": "firefly-clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nosidam48.github.io/firefly-clicky-game",
+  "homepage": "http://nosidam48.github.io/Firefly-Scramblee",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.7.0",
