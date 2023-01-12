@@ -3,18 +3,20 @@
   background-image: url("./space.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-color: (0, 0, 0, 0.5);
   color: orange;
-  height: 180px;
+  height: 150px;
   text-shadow: 1px 1.5px white;
   font-family: 'Merienda', cursive;
-  padding-top: 20px
+  /* padding-top: 20px; */
+  margin-bottom: 20px;
 }
 
 #headline {
-  font-size: 50px
+  font-size: 50px;
+  margin: 0px;
 }
 
 #text-body {
   font-size: 30px;
+  margin: 0px;
 }

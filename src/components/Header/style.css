@@ -1,17 +1,31 @@
 #center-nav {
   font-size: 35px;
   color: white;
+  text-align: center;
 }
 
 #score-nav {
   font-size: 25px;
   color: orange;
-  text-shadow: 1px 1px white;;
+  text-shadow: 1px 1px white;
+  float: right;
+  margin-right: 15px;
 }
 
 .navbar {
   font-family: 'Kaushan Script', cursive;
   background-color: rgba(5, 5, 5, 0.582) !important;
   color: white;
-  
+}
+
+#title {
+  float: left;
+}
+
+li {
+  display: inline;
+}
+
+ul {
+  margin: 0px;
 }

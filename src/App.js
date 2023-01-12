@@ -1,6 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
-import Card from './components/Card/index';
+import FireCard from './components/Card/index';
 import Header from './components/Header/index';
 import cards from './cards.json'
 import Jumbotron from './components/Jumbo/index'
@@ -102,7 +101,7 @@ class App extends React.Component {
       <div className='container'>
     {/* For each card in the state cards, create a card componenet and pass it the card object */}
       {this.state.cards.map(char => (
-        <Card 
+        <FireCard 
         handleClick={this.itemController}
         cards={char}
         key={char.id}
